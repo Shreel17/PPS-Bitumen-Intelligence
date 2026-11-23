@@ -219,7 +219,7 @@ git clone YOUR_REPOSITORY_URL
 cd PPS-Bitumen-Intelligence
 ```
 
-Replace `YOUR_REPOSITORY_URL` with the actual repository URL if the project is published.
+Replace `https://github.com/Shreel17/PPS-Bitumen-Intelligence.git` with the actual repository URL if the project is published.
 
 Alternatively, open the existing project directory directly.
 
