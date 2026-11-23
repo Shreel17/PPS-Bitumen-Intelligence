@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+streamlit
+pandas
+requests
+altair
+reportlab
+apscheduler
+pytest
+httpx
